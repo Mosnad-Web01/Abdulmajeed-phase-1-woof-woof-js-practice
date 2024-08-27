@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 2fr 8fr
+}
+
 #filter-div {
   display: flex;
   justify-content: center;
